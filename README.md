@@ -1,4 +1,4 @@
-# C# OpenCV (OpenCvSharp) Örnek Proje
+# C# OpenCV (OpenCvSharp) 
 
 Bu proje, C# ve OpenCvSharp kullanarak kamera görüntüsü alma, kenar algılama (Canny), yüz tespiti (Haar Cascade) ve göz tespiti örneği içerir. Kamera yoksa proje kökünde `input.jpg` varsa onu işler ve pencerelerde gösterir.
 
