@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "detfglAs9Zk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\OpenCv\\OpenCv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
