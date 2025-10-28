@@ -37,4 +37,3 @@ dotnet run
 ## Notlar
 - Paketler: `OpenCvSharp4`, `OpenCvSharp4.runtime.win`.
 - Pencere açılmıyorsa sistem grafik sürücü kısıtlamaları olabilir; alternatif olarak `Cv2.ImWrite("output.png", edges);` ile dosya çıktısı alabilirsiniz.
-- UI (WinForms/WPF) isterseniz, canlı görüntüyü pencere içinde gösterecek basit bir arayüz ekleyebilirim.
